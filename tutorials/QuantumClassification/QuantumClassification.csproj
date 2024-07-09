@@ -12,6 +12,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Quantum.MachineLearning" Version="0.15.2103133969" />
-    <PackageReference Include="System.Text.Json" Version="4.6.0" />
+    <PackageReference Include="System.Text.Json" Version="8.0.4" />
   </ItemGroup>
 </Project>
